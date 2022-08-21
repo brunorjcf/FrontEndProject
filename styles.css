@@ -14,7 +14,7 @@
 
 /* ===== STYLES DA MAIN ===== */
 section.main{
-    background-image: url('../images/bg.svg');
+    background-image: url('images/bg.svg');
     background-position: center;
     background-size: cover;
     min-height: 700px;
@@ -116,7 +116,7 @@ section.porque-nos > .center > p{
 
 /* ===== STYLES DO CTA ===== */
 section.cta{
-    background-image: url('../images/banner_meio.svg');
+    background-image: url('./images/banner_meio.svg');
     background-size: cover;
     background-position: center;
     padding: 20px 10px;
